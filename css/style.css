@@ -1,0 +1,32 @@
+.titulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: .5rem;
+    margin: 2.5rem 2rem 1rem;
+}
+
+.coluna_elementos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    overflow-x: auto;
+    height: 100%;
+    margin: 3.5rem 1rem 1rem;
+    padding: .5rem;
+}
+
+.separaçao_elementos{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bordatitulo{
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+  }
