@@ -101,6 +101,14 @@ h1{
     size: small;
 }
 
+
+.coluna_meio{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
 .text-block{
     width: 18rem;
     height: 22rem;
