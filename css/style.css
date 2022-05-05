@@ -89,6 +89,7 @@ h1{
     flex-direction: row;
     justify-content: center;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .voltar {
@@ -123,5 +124,6 @@ h1{
     align-items: center;
     flex-direction: column;
     border: .1rem solid black;
+    font-family: 'Heebo', sans-serif;
 }
 
