@@ -127,3 +127,9 @@ h1{
     font-family: 'Heebo', sans-serif;
 }
 
+.barbeiro{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
