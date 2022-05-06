@@ -116,7 +116,6 @@ h1{
     justify-content: center;
     justify-content: space-evenly;
     align-items: center;
-    background-color: rgb(255, 255, 255);
 }
 
 .voltar {
@@ -152,6 +151,7 @@ h1{
     flex-direction: column;
     border: .1rem solid black;
     font-family: 'Heebo', sans-serif;
+    background-color: rgb(0, 162, 255);
 }
 
 .barbeiro{ 
@@ -162,9 +162,5 @@ h1{
 }
 
 a[href] {
-    color: white;
+    color: rgb(255, 255, 255);
   }
-
-.black{
-    color:black;
-}
