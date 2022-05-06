@@ -126,6 +126,19 @@ h1{
     border-radius: 1rem;
 }
 
+.border-azulclaro{
+    width: 12rem;
+    justify-content:space-evenly;
+    justify-content:space-between;
+    border: .1rem solid black;
+    margin:1rem;
+    padding:2.5rem;
+    text-align: center;
+    font-size: large;
+    background-color: #8dbae2;
+    border-radius: 1rem;
+}
+
 .linha {
     display: flex;
     flex-direction: row;
@@ -176,6 +189,9 @@ h1{
     align-items: center;
     justify-content: space-between;
 
+}
+.underline{
+    text-decoration: underline;
 }
 
 a[href] {
