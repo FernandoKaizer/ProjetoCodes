@@ -198,3 +198,29 @@ a[href] {
     color: rgb(0, 0, 0);
     text-decoration: none;
   }
+
+
+  @media only screen and (max-width: 290px) {
+    .border-vermelho{
+        width: 4rem;
+    }
+    
+    .border-azul{
+        width: 4rem;
+    }
+    
+    .border-branco{
+        width: 4rem;
+    }
+  }
+
+
+  .agenda{
+    size: small;
+}
+
+@media only screen and (max-width: 580px) {
+    .agenda{
+        width: 4rem;
+    }
+  }
